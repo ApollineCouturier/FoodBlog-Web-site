@@ -29,5 +29,4 @@ Page Recette:
 
 ![ScreenShot](https://github.com/ApollineCouturier/FoodBlog-Web-site/blob/main/imgReadMe/food-recette-home.PNG)
 
-
 ![ScreenShot](https://github.com/ApollineCouturier/FoodBlog-Web-site/blob/main/imgReadMe/food-step1.PNG)
