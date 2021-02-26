@@ -2,7 +2,7 @@
 Site de blog gastronomique
 
 
-Ceci est un site de nouriture gastronomique que j'ai essayer de faire pendant mon temps libre en suivant des tutos.
+Ceci est un site de nourriture gastronomique que j'ai essayé de faire pendant mon temps libre en suivant des tutos.Il n'est pas encore fini, j'y travaille encore.
 
 Accueil:
 ========
